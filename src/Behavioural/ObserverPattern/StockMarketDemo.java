@@ -7,7 +7,6 @@ public class StockMarketDemo {
     public static void main(String[] args) {
 
 
-
         StockMarket stockMarket = new StockMarket(5.00);
 
         InvestorA investorA = new InvestorA();
